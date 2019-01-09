@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+.toys {
+  width: 600px;
+  float: left;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  margin: 20px 0px 20px 0px;
+}
+
+.favorites {
+  padding: 30px 0px 30px 0px;
+}
+
+.title {
+  font-size: 40px;
+  text-shadow: 2px 2px blue;
+}
