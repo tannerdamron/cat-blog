@@ -1,12 +1,12 @@
 # Cat Blog
 
-#### Webpage containing A blog about two pet cats.
+#### Webpage created to practice CSS
 
-#### By Tanner Damron & Porter Savage
+#### By Tanner Damron & Theary Im
 
 ## Description
 
-A webpage that consists of pictures of both pet cats and multiple different lists about interests and favorite foods.
+A webpage created to learn divs and columns
 
 ## Setup/Installation Requirements
 
@@ -20,10 +20,11 @@ No known bugs.
 
 ## Support and contact details
 
-tanner.mdamron@gmail.com or theportersavage@gmail.com
+tanner.mdamron@gmail.com or thearyim@gmail.com
 
 ## Languages Used
 
 HTML
+CSS
 
-Copyright (c) 2019 Tanner Damron & Porter Savage
+Copyright (c) 2019 Tanner Damron & Theary Im
