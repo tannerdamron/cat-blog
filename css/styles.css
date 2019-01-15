@@ -28,3 +28,9 @@ img {
     background-color: #636363;
     color: #DBDBDB;
 }
+
+.highlight {
+  background-color: yellow;
+  border: 2px solid black;
+  color: black;
+}
