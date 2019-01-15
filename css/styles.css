@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   text-align: center;
 }
@@ -34,3 +35,24 @@ img {
   border: 2px solid black;
   color: black;
 }
+=======
+h1, h2, h3, h4, ol, ul {
+  text-align: center;
+  list-style-position: inside;
+}
+
+h1 {
+  color: orange;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+>>>>>>> 6011ffeb75c89fe81b3912b27ad8ee90301668c9
